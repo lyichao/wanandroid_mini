@@ -16,4 +16,176 @@
       </block>
    </swiper>
 
+   <view class="item-list">
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+      <view class="item">
+         <image class="item-collect" src="../../images/ic_collect.png" mode="aspectFit"></image>
+          <view class="item-text">
+              <text class="text-title">面试官：你做过组件化？你做过组件化？</text>
+              <view class="text-info-box">
+                  <text class="text-info">作者： lyichao</text>
+                  <text class="text-info">分类： android</text>
+              </view>
+          </view>
+          <image class="item-arrow-right" src="../../images/arrow_right.png" mode="aspectFit"></image>
+      </view>
+   </view>
+
+
+
+
+
 </view>
