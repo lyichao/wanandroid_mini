@@ -12,7 +12,8 @@ Page({
     ],
       itemList:[
           {}
-      ]
+      ],
+      scrollDuration:500
   },
 
      /**
@@ -24,6 +25,23 @@ Page({
     console.log('触发onPageScroll事件')
     //动态设置滑动到顶部的时长，最近最远速度相差无几，演示效果暂不考虑性能。
   
- }
+ },
+ /**
+  *  滚动到页面顶部
+  */
+ scrollTop: function() {
+   wx.pageScrollTo({
+    scrollTop: 0,
+    duration: this.data.scrollDuration
+   })
+ },
+
+ gotoSearch: function(){
+   wx.navigateTo({
+     url: '../search/search',
+   })
+ },
+
+
 
 })

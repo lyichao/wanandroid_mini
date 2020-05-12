@@ -20,7 +20,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxss" afterDir="false" />
     </list>
@@ -67,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588993591757</updated>
-      <workItem from="1588993592896" duration="11107000" />
+      <workItem from="1588993592896" duration="15366000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1589014893533</created>
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589014893533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="首页UI切图">
+      <created>1589188636643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589188636643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,21 +113,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交" />
+    <MESSAGE value="首页UI切图" />
+    <option name="LAST_COMMIT_MESSAGE" value="首页UI切图" />
   </component>
   <component name="WindowStateProjectService">
     <state x="430" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588994046246">
       <screen x="70" y="23" width="2490" height="1417" />
     </state>
     <state x="430" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.23.2490.1417@70.23.2490.1417" timestamp="1588994046246" />
-    <state x="274" y="333" key="CommitChangelistDialog2" timestamp="1589014893344">
+    <state x="274" y="333" key="CommitChangelistDialog2" timestamp="1589188636547">
       <screen x="66" y="23" width="2494" height="1417" />
     </state>
-    <state x="274" y="333" key="CommitChangelistDialog2/66.23.2494.1417@66.23.2494.1417" timestamp="1589014893344" />
+    <state x="274" y="333" key="CommitChangelistDialog2/66.23.2494.1417@66.23.2494.1417" timestamp="1589188636547" />
     <state x="278" y="333" key="CommitChangelistDialog2/70.23.2490.1417@70.23.2490.1417" timestamp="1588995268427" />
-    <state x="292" y="471" key="Vcs.Push.Dialog.v2" timestamp="1589014899837">
+    <state x="292" y="471" key="Vcs.Push.Dialog.v2" timestamp="1589188642256">
       <screen x="66" y="23" width="2494" height="1417" />
     </state>
-    <state x="292" y="471" key="Vcs.Push.Dialog.v2/66.23.2494.1417@66.23.2494.1417" timestamp="1589014899837" />
+    <state x="292" y="471" key="Vcs.Push.Dialog.v2/66.23.2494.1417@66.23.2494.1417" timestamp="1589188642256" />
+    <state x="479" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589253254449">
+      <screen x="62" y="23" width="2498" height="1417" />
+    </state>
+    <state x="479" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.23.2498.1417@62.23.2498.1417" timestamp="1589253254449" />
   </component>
 </project>

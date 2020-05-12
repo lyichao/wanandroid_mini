@@ -1,8 +1,3 @@
-/**index.wxss**/
-.page{
-  /*background-color: red;*/
-}
-
 .search-bar{
   background-color: #ededed;
   height: 60rpx;
@@ -21,7 +16,7 @@
   color:#999;
 }
 .swiper{
-  width: 100%;
+  /* width: 100%; */
   height: 400rpx;
   background-color:#ededed;
 }
@@ -33,7 +28,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  border: 1rpx red solid;
+  border-bottom: 1rpx #ddd solid;
   padding: 30rpx 10rpx 20rpx 20rpx;
 }
 .item image{
@@ -54,12 +49,20 @@
 }
 .text-info{
   margin-top: 20rpx;
+  padding-right: 20rpx;
   margin-right: 35rpx;
   font-size: 20rpx;
   color: #999;
+  border: 1rpx green solid;
 }
 .text-title{
   flex-wrap: wrap;
+}
+icon[type=download]{
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+  transform: rotate(180deg);
 }
 
 
