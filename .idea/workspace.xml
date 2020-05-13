@@ -18,10 +18,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c4eb703e-def8-43fd-816f-260efeb0034a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/search/search.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/search/search.wxss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588993591757</updated>
-      <workItem from="1588993592896" duration="15366000" />
+      <workItem from="1588993592896" duration="15995000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1589014893533</created>
@@ -82,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589188636643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加搜索界面">
+      <created>1589277205243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589277205243</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,21 +118,24 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交" />
     <MESSAGE value="首页UI切图" />
-    <option name="LAST_COMMIT_MESSAGE" value="首页UI切图" />
+    <MESSAGE value="添加搜索界面" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加搜索界面" />
   </component>
   <component name="WindowStateProjectService">
     <state x="430" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588994046246">
       <screen x="70" y="23" width="2490" height="1417" />
     </state>
     <state x="430" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.23.2490.1417@70.23.2490.1417" timestamp="1588994046246" />
-    <state x="274" y="333" key="CommitChangelistDialog2" timestamp="1589188636547">
-      <screen x="66" y="23" width="2494" height="1417" />
+    <state x="270" y="333" key="CommitChangelistDialog2" timestamp="1589277205149">
+      <screen x="62" y="23" width="2498" height="1417" />
     </state>
+    <state x="270" y="333" key="CommitChangelistDialog2/62.23.2498.1417@62.23.2498.1417" timestamp="1589277205149" />
     <state x="274" y="333" key="CommitChangelistDialog2/66.23.2494.1417@66.23.2494.1417" timestamp="1589188636547" />
     <state x="278" y="333" key="CommitChangelistDialog2/70.23.2490.1417@70.23.2490.1417" timestamp="1588995268427" />
-    <state x="292" y="471" key="Vcs.Push.Dialog.v2" timestamp="1589188642256">
-      <screen x="66" y="23" width="2494" height="1417" />
+    <state x="288" y="471" key="Vcs.Push.Dialog.v2" timestamp="1589277260556">
+      <screen x="62" y="23" width="2498" height="1417" />
     </state>
+    <state x="288" y="471" key="Vcs.Push.Dialog.v2/62.23.2498.1417@62.23.2498.1417" timestamp="1589277260556" />
     <state x="292" y="471" key="Vcs.Push.Dialog.v2/66.23.2494.1417@66.23.2494.1417" timestamp="1589188642256" />
     <state x="479" y="652" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589253254449">
       <screen x="62" y="23" width="2498" height="1417" />
