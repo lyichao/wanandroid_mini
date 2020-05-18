@@ -8,7 +8,7 @@
 
         <view class="input-bar" hidden="{{!showInput}}">
             <icon class="search-icon" type="search size=12" ></icon>
-            <input class="input" type="text" placeholder="搜索"></input>
+            <input class="input" type="text" placeholder="搜索" value="{{searchText}}"></input>
             <text class="clear-text-btn" bindtap="hideInput">取消</text>
         </view>
         
@@ -20,7 +20,7 @@
 
     <view class="tag-box">
         <block wx:for="{{tagList}}" wx:key="*this">
-            <text class="tagText">{{item.tagName}}</text>
+            <text class="tagText" bindtap="clickTag" data-name='{{item.tagName}}'>{{item.tagName}}</text>
         </block>
     </view>
 </view>

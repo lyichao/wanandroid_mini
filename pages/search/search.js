@@ -6,6 +6,7 @@ Page({
    */
   data: {
     showInput:false,
+    searchText:'',
     tagList:[
       {tagName:'面试'},
       {tagName:'Studio3'},
@@ -85,6 +86,14 @@ Page({
   hideInput: function(){
     this.setData({
       showInput:false
+    })
+  },
+
+  clickTag: function(e){
+    console.log(e.currentTarget.dataset.name)
+    this.setData({
+      searchText:e.currentTarget.dataset.name,
+      showInput:true
     })
   }
 })
