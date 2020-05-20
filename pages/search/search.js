@@ -95,5 +95,19 @@ Page({
       searchText:e.currentTarget.dataset.name,
       showInput:true
     })
+  },
+
+  cleanSearchText: function(){
+    this.setData({
+    searchText:''
+    })
+  },
+
+  inputTyping: function(e){
+    console.log(e)
+    this.setData({
+      searchText: e.detail.value
+    });
   }
+
 })

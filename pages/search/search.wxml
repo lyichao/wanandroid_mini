@@ -8,7 +8,10 @@
 
         <view class="input-bar" hidden="{{!showInput}}">
             <icon class="search-icon" type="search size=12" ></icon>
-            <input class="input" type="text" placeholder="搜索" value="{{searchText}}"></input>
+            <input class="input" type="text" placeholder="搜索" value="{{searchText}}" bindinput="inputTyping"></input>
+            <view class="clearbtn" bindtap="cleanSearchText" wx:if="{{searchText.length > 0}}" >
+                <icon type="clear" size="14" ></icon>
+            </view>
             <text class="clear-text-btn" bindtap="hideInput">取消</text>
         </view>
         

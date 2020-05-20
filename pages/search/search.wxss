@@ -29,7 +29,7 @@
   flex: 1;
   background-color: white;
   height: 60rpx;
-  border-radius: 0rpx 8rpx 8rpx 0rpx;
+  font-size: 30rpx;
 }
 .search-icon{
   display: flex;
@@ -54,7 +54,16 @@
   display: flex;
   flex-wrap: wrap;
   padding: 0rpx 10rpx 10rpx 20rpx;
+}
+.clearbtn{
+  padding: 0rpx 20rpx;
+  display: flex;
+  align-items: center;
+  background-color: white;
+  border-radius: 0rpx 8rpx 8rpx 0rpx;
   
+  
+
 }
 
 
