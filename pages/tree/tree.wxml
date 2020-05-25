@@ -1,2 +1,19 @@
 <!--pages/tree/tree.wxml-->
-<text>pages/tree/tree.wxml</text>
+<view>
+	<view>
+		<view class="item">
+			<image class="itemIcon" src="../../images/ic_collect.png" mode="aspectFit"></image>
+			<text class="itemText">开发者工具</text>
+		</view>
+		<view class="tagBox">
+			<text class="tagText">Android Studio相关</text>
+      <text class="tagText">gradle</text>
+			<text class="tagText">官方发布</text>
+			<text class="tagText">90-120hz</text>
+		</view>
+
+	</view>
+
+
+
+</view>

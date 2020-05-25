@@ -1,8 +1,9 @@
 {
   "pages":[
+    "pages/tree/tree",
+
     "pages/index/index",
     "pages/search/search",
-    "pages/tree/tree",
     "pages/nav/nav",
     "pages/project/project",
     "pages/my/my"
