@@ -1,2 +1,48 @@
 <!--pages/nav/nav.wxml-->
-<text>pages/nav/nav.wxml</text>
+
+<view class="page">
+	<scroll-view class="left" scroll-y="true" style="height:{{scrollHeight}}px">
+		<view class="navItem">
+			<text class="leftText">互联网资讯</text>
+		</view>
+
+	</scroll-view>
+
+	<scroll-view class="right" scroll-y="true" style="height:{{scrollHeight}}px">
+		<view class="detialItem">
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+			<text>bbbbbb</text>
+
+		</view>
+	</scroll-view>
+</view>

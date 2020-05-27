@@ -1,1 +1,32 @@
 /* pages/nav/nav.wxss */
+.page {
+  display: flex;
+  flex-direction: row;
+}
+
+.left {
+  width: 35%;
+  height: 400rpx;
+}
+
+.navItem {
+  border: 1rpx white solid;
+  border-left-width: 10rpx;
+  border-left-color: #4CAF50;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30rpx 0rpx;
+  background-color:#f3f3f3;
+}
+
+.leftText {
+  color: #4CAF50;
+}
+
+.detialItem {
+  border: 1rpx red solid;
+  display: flex;
+  flex-direction: column;
+}
