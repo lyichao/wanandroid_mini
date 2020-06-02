@@ -10,38 +10,11 @@
 
 	<scroll-view class="right" scroll-y="true" style="height:{{scrollHeight}}px">
 		<view class="detialItem">
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
-			<text>bbbbbb</text>
+			<text class="rightText">Google开发者Google开发者</text>
+			<text class="rightText">github</text>
+			<text class="rightText">CSDN</text>
+			<text class="rightText">简书</text>
+
 
 		</view>
 	</scroll-view>

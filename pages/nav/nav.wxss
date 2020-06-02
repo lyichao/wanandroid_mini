@@ -26,7 +26,21 @@
 }
 
 .detialItem {
-  border: 1rpx red solid;
+  /* border: 1rpx red solid; */
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.rightText{
+  background-color: #f3f3f3;
+  text-align: center;
+  border: 0rpx white solid;
+  padding: 30rpx 20rpx;
+  margin-left: 2rpx;
+  width: 42%;
+  border-bottom-width: 1rpx;
+  border-radius: 5rpx;
+  overflow:hidden;
+  white-space:nowrap;
+  text-overflow:ellipsis;
 }
